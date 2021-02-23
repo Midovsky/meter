@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shipmentFile>
+   <devices>
+      <device>
+            <parameter>
+               <name>meter_id</name>
+               <value>991157485968</value>
+            </parameter>
+            <parameter>
+               <name>device_type</name>
+               <value>ELEC</value>
+            </parameter>
+            <parameter>
+               <name>region</name>
+               <value>TUN</value>
+            </parameter>
+            <parameter>
+               <name>com_type</name>
+               <value>4G</value>
+            </parameter>
+            <parameter>
+               <name>amr_router</name>
+               <value>SAG157485966</value>
+            </parameter>
+            <parameter>
+               <name>logical_device_name</name>
+               <value>SAG157485965</value>
+            </parameter>
+            <parameter>
+               <name>constructor</name>
+               <value>SAGEMCOM</value>
+            </parameter>
+      </device>
+    </devices>
+</shipmentFile>
