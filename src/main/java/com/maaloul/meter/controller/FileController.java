@@ -40,7 +40,7 @@ public class FileController {
       }
 
       if (tmpXml.length() == 0){
-        System.out.println("File is empty!!!");
+        System.out.println("File is empty !!!");
         message = "File is empty: " + file.getOriginalFilename();
 
         return ResponseEntity.status(HttpStatus.OK).body(new ResponseMessage(message));
